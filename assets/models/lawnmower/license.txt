@@ -1,0 +1,11 @@
+Model Information:
+* title:	Craftsman Lawnmower
+* source:	https://sketchfab.com/3d-models/craftsman-lawnmower-9d2656d13ff84af685953f7bafb0b44e
+* author:	League Studio (https://sketchfab.com/leaguestudio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Craftsman Lawnmower" (https://sketchfab.com/3d-models/craftsman-lawnmower-9d2656d13ff84af685953f7bafb0b44e) by League Studio (https://sketchfab.com/leaguestudio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

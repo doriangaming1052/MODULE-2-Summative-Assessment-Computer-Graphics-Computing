@@ -1,0 +1,11 @@
+Model Information:
+* title:	Zombie - PVZ Garden Warfare
+* source:	https://sketchfab.com/3d-models/zombie-pvz-garden-warfare-9e8c4630400245be88dd0ce6597c3cf3
+* author:	Nazar Okruzhko (Назар Окружко) (https://sketchfab.com/Hot-Dog_1947)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zombie - PVZ Garden Warfare" (https://sketchfab.com/3d-models/zombie-pvz-garden-warfare-9e8c4630400245be88dd0ce6597c3cf3) by Nazar Okruzhko (Назар Окружко) (https://sketchfab.com/Hot-Dog_1947) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
